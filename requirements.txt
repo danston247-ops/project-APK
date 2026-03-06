@@ -1,0 +1,8 @@
+Flask
+Flask-SQLAlchemy
+cryptography
+Werkzeug
+twilio
+gunicorn
+requests
+APScheduler
